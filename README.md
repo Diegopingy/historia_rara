@@ -8,7 +8,7 @@ Esta es una historia  que no debes entender, pes no tiene ningun caso comprender
 
 
 Y ahora empieza la historia
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------
 
 Cuando *Pablo* salio a su ventana no sabia que **la luz de esa clara mañana**, era luz de su último día
 
