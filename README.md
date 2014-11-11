@@ -12,7 +12,7 @@ Y ahora empieza la historia
 
 Cuando *Pablo* salio a su ventana no sabia que **la luz de esa clara mañana**, era luz de su último día
 
-- Si Pablo decide no salir: [no_salio.md]
+- Si Pablo decide no salir: [no salio][no_salio.md]
 
 - Si Pablo decide salir: [salio.md]
 
